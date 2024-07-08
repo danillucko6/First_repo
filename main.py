@@ -1,3 +1,2 @@
 print("hello world")
-$ git config --global user.name "Danylo Luchko
-"
+print("sissy boy in poland")
